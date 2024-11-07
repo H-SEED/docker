@@ -6,7 +6,7 @@
 FROM rockylinux:8
 
 # Author
-LABEL authors="hyunseed@naver.com"
+LABEL authors="H-SEED"
 
 # Timezone
 ENV TZ=Asia/Seoul
